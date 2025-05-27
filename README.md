@@ -72,6 +72,7 @@ Specialist in Ecommerce and Purchasing with experience in supply chain optimizat
       alt="Repo Stats"
       style="width: 470px; height: auto; margin-right: 20px;"
     /> 
+  <br>
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=LudwinLeon24&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
       alt="Streak Stats"
