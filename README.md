@@ -10,11 +10,11 @@
 
 Specialist in Ecommerce and Purchasing with experience in supply chain optimization, inventory forecasting, and data-driven decision making. Currently completing a Data Science bootcamp, gaining hands-on experience in Python, SQL, statistics, machine learning, and data visualization. Passionate about using data to drive sustainable growth and smarter business operations. Avid guitar player and wildlife photographer.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning Machine learning
   
 - 👯 I’m looking to collaborate in new projects
   
-- 💬 Ask me about SQL, Python, Machine Learning,Data Cleaning & Preprocessing, Pandas, NumPy, Matplotlib & Seaborn, Machine Learning (scikit-learn), Exploratory Data Analysis (EDA),Jupyter Notebooks, Data Storytelling & Visualization, Statistics & Hypothesis Testing, etc.
+- 💬 Ask me about SQL, Python, Machine Learning,Data Cleaning & Preprocessing, Pandas, NumPy, Matplotlib & Seaborn, Exploratory Data Analysis (EDA),Jupyter Notebooks, Data Storytelling & Visualization, Statistics & Hypothesis Testing, etc.
   
 
 <br>
